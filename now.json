@@ -1,0 +1,11 @@
+{
+  "name": "react-user-app",
+  "alias": "react-user-app-123.now.sh",
+  "version": 2,
+  "env": {
+    "MONGO_SRV": "mongodb://shabeebalivk:Shabeeb123@ds133192.mlab.com:33192/reactreserve",
+    "JWT_SECRET": "galaxy",
+    "CLOUDINARY_URL": "https://api.cloudinary.com/v1_1/shabeebalivk/image/upload",
+    "STRIPE_SECRET_KEY": "<insert-stripe-secret-key>"
+  }
+}
